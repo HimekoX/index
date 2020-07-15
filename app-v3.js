@@ -2598,7 +2598,7 @@ function init() {
     var html = `
 <header class="nexmoe-nav">
 	<div class="navSize">
-			<a href="/"><img class="avatar" src="https://sm.ms/image/6pa3z5tFgy7EIcw"/></a>
+			<a href="/"><img class="avatar" src="https://i.loli.net/2020/04/24/wCxMZFtiv6aKmQ1.png"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
 					<li class="menu_li"><a href="https://blog.sakura.ski/" target="_blank">博客</a></li>
